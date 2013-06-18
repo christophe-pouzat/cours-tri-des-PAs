@@ -1,0 +1,50 @@
+
+
+Dataset pour sequence:
+  * stat signal
+  * detection std vs mad
+  * 
+
+
+
+
+
+A implementer côté OpenElectrophy:
+   * detection multichannel avec summation des channel au dessus du seuil
+   * 6.1 Getting the "right" length for the cuts (avec MAD)
+   * ajjouter MAD dans average wf   + median
+   * creer wf de bruit inter
+   * jitter global
+   * deviant sur wf MAD quand median<0  dans la corbeille
+   * figure PCA (9.2 Exploring PCA results)
+   * jitter par cluster
+   * plot WF avec ordre sum(X**2)
+  
+Si time:
+   *12 "Brute force" superposition resolution
+
+
+
+
+
+
+
+Plan de cours:
+
+
+
+
+
+A faire:
+   * clef linux boot
+   * Annonce pour avoir les datas
+
+
+
+   
+   
+Apple: fink ou macport ou homebrew
+
+
+
+
